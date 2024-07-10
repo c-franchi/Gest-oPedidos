@@ -1,0 +1,20 @@
+# .gitignore
+
+# Dependências do Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Build
+dist/
+build/
+
+# Sistema operacional
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
